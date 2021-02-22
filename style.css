@@ -1,0 +1,108 @@
+body{
+    background-color: rgba(184, 174, 174, 0.966);
+}
+
+
+header{
+    background-image: url("https://browniedalucia.com.br/wp-content/uploads/2019/06/1-1-768x576.jpg");
+    font-family: monospace;
+    color: rgb(185, 75, 75);
+    padding: 50px;
+    font-size: 40px;
+    margin:auto;
+    border: 5px solid rgb(92, 81, 81);
+    box-shadow: 10px 10px 10px rgb(31, 29, 29);
+}
+
+header p{
+    font-size: 30px;
+    color: rgb(245, 241, 235);
+    font-family: fantasy;
+    margin-left: 200px;
+}
+
+
+article{
+    font-family: monospace;
+    font-size: 15px;
+    color: rgb(17, 16, 16);
+    text-align: justify;
+    width: 700px;   
+    display: inline-block;
+    border-right: 1px solid black;
+    padding:15px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+h2{
+    text-decoration: overline;
+    text-shadow: 2px 2px 3px rgb(180, 134, 134);
+}
+
+aside{
+  width: 500px;
+  float: right;
+  margin-top: 40px;
+  
+}
+
+ul{
+    margin-top: 30px;
+}
+
+.lista1{
+    font-family: Arial;
+    font-size: 16px;
+    color: rgb(17, 17, 17);
+    margin-bottom: 15px;
+    margin-top: 30px;
+    
+}
+
+.lista2{font-family: Arial;
+    font-size: 19px;
+    color: rgb(19, 18, 18);
+    margin-bottom: 15px;
+}
+
+.lista3{
+    font-family: Arial;
+    font-size: 21px;
+    color: rgb(20, 19, 19);
+    margin-bottom: 15px;
+}
+
+footer{
+    background-image: url("https://browniedalucia.com.br/wp-content/uploads/2019/06/1-1-768x576.jpg");
+    border: 5px solid rgb(95, 91, 91);
+    box-shadow: 10px 10px 10px rgb(24, 23, 23);
+    font-size: 20px;
+    padding:15px;
+}
+
+
+.link{
+    color: black;
+    width: 280px;
+    border: 3px solid rgba(202, 202, 206, 0.507);
+    box-shadow: 3px 3px 4px rgb(172, 161, 161);
+    background-color: rgb(190, 173, 173);
+    padding: 15px; 
+    text-align: center;   
+    margin-left: 450px;
+}
+
+
+h1:hover{
+    background-color: rgb(201, 189, 189);
+    text-decoration: underline;
+}
+.link:hover{
+    background-color: rgb(223, 217, 217);
+}
+
+h1:active{
+    color: rgb(17, 16, 16);
+}
+    
